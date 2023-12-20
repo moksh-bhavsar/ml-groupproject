@@ -4,11 +4,14 @@ Welcome to our Food Image Classifier project! 🍲📸
 
 ## Overview
 
-We, a collaborative team consisting of [Your Name], Noshen Atashe, Soumia, and Jushwin Jagdev, proudly present an innovative Image Classifier machine learning model. The primary objective of our project is to categorize food images into three distinct categories using the Food101 Dataset.
+We, a collaborative team consisting of Moksh Bhavsar, Noshen Atashe, Soumia Umaputhiran, and Jushwin Jagdev, proudly present an innovative Image Classifier machine learning model. The primary objective of our project is to categorize food images into three distinct categories using the Food101 Dataset.
 
 ## Project Components
 
-### 1. Model Development
+### 1. Dataset
+We utilized a subset of Food101 Dataset available on torchvision. For more information regarding the dataset please visit: https://pytorch.org/vision/stable/generated/torchvision.datasets.Food101.html#food101
+
+### 2. Model Development
 
 We utilized the following technologies and tools for developing our robust image classifier:
 
@@ -16,7 +19,7 @@ We utilized the following technologies and tools for developing our robust image
 - **Python:** The primary programming language for building the model.
 - **PyTorch:** Employed for creating and training the machine learning model.
 
-### 2. Deployment Simulation
+### 3. Deployment Simulation
 
 To simulate the deployment of our model, we incorporated the following components:
 
