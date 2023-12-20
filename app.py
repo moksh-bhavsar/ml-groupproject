@@ -12,9 +12,9 @@ app = Flask(__name__)
 app.config['MAX_CONTENT_LENGTH'] = 1024 * 1024 * 1024  # Example: set max size to 1024 MB
 
 # Load the trained PyTorch model
-model_path = 'model.pth'  # Update with your model path
+model_path = 'model_checkpoint/model.pth'  # Update with your model path
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-model = torch.load('model.pth')
+model = torch.load(model_path)
 model.eval()
 
 # Define the image transformation (update according to your model)
