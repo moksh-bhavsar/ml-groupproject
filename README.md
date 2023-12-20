@@ -32,7 +32,7 @@ To explore our project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [repository_url]
+   git lfs clone [repository_url]
    ```
 
 2. **Install Dependencies:**
