@@ -8,6 +8,13 @@ We, a collaborative team consisting of Moksh Bhavsar, Noshen Atashe, Soumia Umap
 
 ## Project Components
 
+### Prerequisites
+1. Python > 3.10
+2. Torch Lightning
+3. Torch Summary
+4. Torch Eval
+5. Torch
+
 ### 1. Dataset
 We utilized a subset of Food101 Dataset available on torchvision. For more information regarding the dataset please visit: https://pytorch.org/vision/stable/generated/torchvision.datasets.Food101.html#food101
 
