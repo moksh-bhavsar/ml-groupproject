@@ -52,6 +52,6 @@ If you're interested in contributing to our project or have any questions, feel 
 
 ## Contact
 
-For additional details, inquiries, or future project ideas, please contact [Your Name] via LinkedIn or [email@example.com].
+For additional details, inquiries, or future project ideas, please contact Moksh Bhavsar via LinkedIn or bhavsarmoksh19@gmail.com.
 
 Happy coding! 🚀 #MachineLearning #ImageClassifier #DataScience #GitHub #Python #PyTorch #Flask #RESTAPI
