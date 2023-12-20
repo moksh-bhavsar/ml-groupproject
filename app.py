@@ -6,7 +6,7 @@ import io
 import torch
 import torch.nn as nn
 import torcheval
-from models import *
+from model_checkpoint.models import *
 
 app = Flask(__name__)
 app.config['MAX_CONTENT_LENGTH'] = 1024 * 1024 * 1024  # Example: set max size to 1024 MB
